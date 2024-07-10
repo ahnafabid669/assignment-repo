@@ -32,6 +32,8 @@ color:rgba(59, 73, 83, 0.781);
 line-height: 20px;
 font-size: 20px;
 margin-bottom: 32px;
+padding-left:15px;
+
 
 
 }
@@ -55,7 +57,7 @@ margin-bottom: 32px;
     align-items: center;
     flex-direction: column;
     margin-top: 96px;
-    margin-bottom: 70px ;
+    margin-bottom: 240px ;
     background-color:rgba(255, 255, 255, 0.897);
     
 }
@@ -73,10 +75,11 @@ margin-bottom: 32px;
 }
 .sub1{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
-    width:850px ;
-    height: 240px;
+    margin-top: 32px;
+    width: 946px;
+    height: 336px;
 }
 .main-section{
     display: flex;
@@ -96,11 +99,11 @@ margin-bottom:96px ;
 }
 .sub-2{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
-    width:850px ;
-    height: 240px;
-    margin-top:100px;
+    margin-top: 32px;
+    width: 946px;
+    height: 336px;
 
 }
 .dive-one{
@@ -123,4 +126,109 @@ margin-bottom:96px ;
 line-height: 20px;
 font-size: 20px;
 margin-bottom: 48px;
+}
+.three{
+display: flex;
+justify-content:space-between;
+align-items: center;
+margin-top: 32px;
+width: 946px;
+height: 336px;
+}
+.img{
+    
+    width: 274px;
+    height: 240px;
+}
+.content-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    gap: 10px;
+    width: 946px;
+height: 336px;
+}
+.gt{
+    text-align: center;
+    gap: 10px;
+   
+
+}
+.para-p{
+    color:rgba(59, 73, 83, 0.781);
+line-height: 20px;
+font-size: 20px;
+margin-bottom: 55px;
+
+}
+
+
+
+.video{
+    width: 946px;
+height:450px;}
+.video video{
+    border-radius: 8px;
+}
+.multiple{
+     margin-top: 100px;
+    
+
+}
+.gimp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    width: 946px;
+    
+}
+.aaa , .bbb , .ccc{
+    width: 364px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 16px;
+
+}
+.real{
+    
+display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.ccc{
+    background-color: rgba(197, 192, 162, 0.877);
+
+
+}
+.aaa{
+    background-color:rgb(193, 193, 226) ;
+}
+.bbb{
+    background-color:rgb(218, 201, 201) ;
+}
+.fff{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.learn{
+   
+}
+.para-1{
+    color:rgba(59, 73, 83, 0.781);
+    line-height: 20px;
+    font-size: 20px;
+    margin-bottom: 8px;
+    padding-left:15px;
+
+}
+.para-1 >a{
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    font-size: 23px;
 }
